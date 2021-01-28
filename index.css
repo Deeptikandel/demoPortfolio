@@ -70,3 +70,7 @@ textarea {
 button[type=send] {
     background-color: gray;
 }
+
+.customDiv:hover {
+    transform: scale(1.1);
+}
